@@ -19,5 +19,11 @@ You can modify the starting and ending parameters as well as the maze's wall app
 # Note
 If the program does not find a path in the maze, you need to recompile the code.
 
+# Results
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MetalGray/Random_maze_pathfinding_algorithms/main/maze_results.png" />
+</p>
+
 # Credits
 This program was written by MetalGray. 
