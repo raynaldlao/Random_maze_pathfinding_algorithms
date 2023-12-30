@@ -1,6 +1,6 @@
 # Shortest Path Algorithms in a Random Maze
 
-This repository contains a Python program that generates a random maze and uses several shortest path algorithms to find the path from a starting point to an ending point. The algorithms implemented are:
+This repository contains a Python program that generates a random maze and uses several shortest path algorithms to find the path from a starting point to an ending point. The algorithms implemented are :
 
 - A* search with and without heuristic
 - Bellman-Ford
